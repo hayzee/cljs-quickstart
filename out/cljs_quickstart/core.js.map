@@ -1,0 +1,1 @@
+{"version":3,"file":"\/X:\/clojurescript\/cljs-quickstart\/out\/cljs_quickstart\/core.js","sources":["core.cljs"],"lineCount":12,"mappings":";AAAA;;AAEA;;;2BAAA,3BAAMA,8DAEHC;AAFH,AAGE,qCAAA,9BAACC,4BAAQD;;AAEX,4BAAA,5BAACC","names":["cljs-quickstart.core\/foo","x","cljs.core\/println"]}
